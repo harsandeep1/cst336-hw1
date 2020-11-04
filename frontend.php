@@ -37,16 +37,16 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="index.html">Home</a>
+              <a class="nav-link" href="index.php">Home</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="fullstack.html">Full-Stack</a>
+              <a class="nav-link" href="fullstack.php">Full-Stack</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="frontend.html">Front-End</a>
+              <a class="nav-link" href="frontend.php">Front-End</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="backend.html">Back-End</a>
+              <a class="nav-link" href="backend.php">Back-End</a>
             </li>
           </ul>
         </div>
@@ -56,18 +56,41 @@
 
   <section>
     <div class="Intro_paragraph">
-      <p>Front-End developement solely focuses on the client side developement. These developer's job
-      is to work on the HTML,CSS, and JavaScript part of a website. These are not the only languages they mainly
-      focused on, but these are the primary pillers of any website you see in the modren times. The Hypertext-Markup
-      language(HTML) and Casscading Stylesheet(CSS) may not have changed much over the years except their new updated
-      versions, but JavaScript has evolved a lot over the years.</p>
+      <p>Front-End development solely focuses on client-side development.
+        These developers' job is to work on the HTML, CSS, and JavaScript part
+        of a website. These are not the only languages they mainly focused on,
+        but these are the primary pillars of any website you see today.
+        The Hypertext-Markup language(HTML) and Cascading Stylesheet(CSS) may not
+        have changed much over the years except their new updated versions, but
+        JavaScript has evolved considerably over the years. Even though a developer
+        is working on the Front-End, their job starts developing an idea to
+        present it to the Back-End developers. A developer with significant
+        knowledge about Front-End development can also explore Web-Design,
+        Software Engineer, or a Project Engineer. </p>
       <img class="webpage_img" src="images/frontendmap.jpg" alt="Fron-End Map">
+      <div class="sources">
+        <p><sup>***</sup>Images are downloaded from Google.</p>
+      </div>
     </div>
   </section>
 
+  <!-- This paragraph explains the table below -->
+  <section>
+    <div class="Intro_paragraph">
+        <p>Here are a few of the skill set that a Front-End Developer uses on daily basis.
+        Since all the web developers use HTML, CSS, and JS in one way or another throughout
+        their working career, I place these under the essential languages section.
+        All the websites in the world have some content using these essential languages.
+        Besides these essential languages, a Front-End developer also works with several
+        different frameworks as listed a few of them and carries out other duts such
+        as those under the other skills section.</p>
+    </div>
+  </section>
+
+  <!-- This section is used for table on the page -->
   <section>
     <div class="table">
-      <table  border=10px>
+      <table>
                   <tr id="table-header">
                         <td><strong>Essential Languages</strong></td>
                         <td><strong>Frameworks</strong></td>

@@ -37,13 +37,13 @@
         <div class="collapse navbar-collapse" id="navbarSupportedContent">
           <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link" href="fullstack.html" target="_blank">Full-Stack</a>
+              <a class="nav-link" href="fullstack.php" target="_blank">Full-Stack</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="frontend.html" target="_blank">Front-End</a>
+              <a class="nav-link" href="frontend.php" target="_blank">Front-End</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link" href="backend.html" target="_blank">Back-End</a>
+              <a class="nav-link" href="backend.php" target="_blank">Back-End</a>
             </li>
           </ul>
         </div>
@@ -53,13 +53,19 @@
 
       <div class="row">
         <div class="col-lg-6">
-          <h1>Coding Buddy is here to guide you through the Web Developement Program. With web developement, you can explore fields
-          such as Full-Stack developement or you can work in either as a Front-End or a Back-End Developer too!!!</h1>
+          <h1>Coding Buddy is here to guide you through the Web Development Program. With web development, you can explore fields
+            such as Full-Stack development or work either as a Front-End or a Back-End Developer. Web Development is highly
+            in demand, and companies worldwide are always looking to hire knowledgeable web developers. A person with any
+            background can easily switch their career. Within starting the course, a person can start applying for junior
+            level positions and gain the necessary working experience. Click on each link to know more about different fields of web development.</h1>
           <button id="iphone-btn" type="button" class="btn btn-dark btn-lg"><i class="fab fa-apple"></i> Download</button>
           <button id="google-btn" type="button" class="btn btn-outline-light btn-lg"><i class="fab fa-google-play"></i> Download</button>
         </div>
         <div class="col-lg-6">
           <img id="codingbuddy" src="images/CodingBuddy.png" alt="Coding Guy Image">
+          <div class="sources frontpage_source">
+            <p><sup>***</sup>Images are downloaded from Google.</p>
+          </div>
         </div>
       </div>
     </div>

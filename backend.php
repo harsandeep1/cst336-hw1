@@ -38,16 +38,16 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="fullstack.html">Full-Stack</a>
+                <a class="nav-link" href="fullstack.php">Full-Stack</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="frontend.html">Front-End</a>
+                <a class="nav-link" href="frontend.php">Front-End</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="backend.html">Back-End</a>
+                <a class="nav-link" href="backend.php">Back-End</a>
               </li>
             </ul>
           </div>
@@ -55,21 +55,44 @@
       </div>
     </section>
 
-  <!-- Features -->
+  <!-- This paragraph is used for the introduction of the page. -->
   <section>
     <div class="Intro_paragraph">
-      <p>Even though the image might not explain the Back-End developement program,
-      but being a Back-End developer is not an easy task. Back-End Development is
-      significantly harder than the Fron-End and Full Stack because a developer's
-      primary job is to work with multiple languages such as Python, Java, C++, C, etc...
-      Besides working with multiple languages, a developer can also explore Databases Programs</p>
+      <p>Back-End Development is significantly more challenging than the Fron-End
+        and Full-Stack because a developer's primary job is to work with multiple
+        languages such as Python, Java, C++, C, etc. All these languages take
+        several years to master them, which is why they are very demanding.
+        A developer has to have a few years of experience to perform his/her
+        duties without any issues. Besides working with multiple languages, a
+        developer can also explore Databases Programs. The Back-End web development
+        and Database program works quite closely since all the companies need some
+        database system to store their companies and their client's information.
+        If Back-End development is the backbone of web development, then the
+        Database is the backbone of the Back-End Development. One may think that
+        there is no correlation between the two, but one cannot survive without the other.</p>
       <img class="webpage_img" src="images/backendmap.png" alt="Back-end Truth">
+      <div class="sources">
+        <p><sup>***</sup>Images are downloaded from Google.</p>
+      </div>
     </div>
   </section>
 
+  <!-- This paragraph explains the table below -->
   <section>
-    <div class="table">
-      <table  border=10px>
+    <div class="Intro_paragraph">
+        <p>Here are a few of the skill sets that a Back-End Developer uses daily.
+        These are a few of the significant programming languages that are used by a Back-End developer daily
+        I have listed Python above them all because, in recent times, it has gained a lot of popularity of
+        being a simple language and used for web development, Artificial Intelligence, or Automation a lot.
+        The database is another exciting field that Back-End developer loves to explore. Here are also a few
+        of the frameworks that are used by a Back-End developer.</p>
+    </div>
+  </section>
+
+  <!-- This section is used for table on the page -->
+  <section>
+    <div class="table backend_table">
+              <table>
                   <tr id="table-header">
                         <td><strong>Programming Languages</strong></td>
                         <td><strong>Databases</strong></td>

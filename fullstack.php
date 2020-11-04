@@ -35,16 +35,16 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav ml-auto">
               <li class="nav-item">
-                <a class="nav-link" href="index.html">Home</a>
+                <a class="nav-link" href="index.php">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="fullstack.html">Full-Stack</a>
+                <a class="nav-link" href="fullstack.php">Full-Stack</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="frontend.html">Front-End</a>
+                <a class="nav-link" href="frontend.php">Front-End</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="backend.html">Back-End</a>
+                <a class="nav-link" href="backend.php">Back-End</a>
               </li>
             </ul>
           </div>
@@ -55,17 +55,27 @@
     <!-- This is the introduction paragraph -->
     <section>
       <div class="Intro_paragraph">
-          <p>Full Stack Developement is a course for a person who wants to excel at both the Front-End
-          and the Back-End developement. This exciting career path has great Opportunities for anyone who
-          loves the challenge of leanring both the Front-End languages such as HTML,CSS, and JavaScript as well
-          as the Back-End languages such as Java, Python, C, C++, and many more. </p>
+          <p>Full Stack Development is a course for a person who wants to excel at both
+            the Front-End and Back-End development. This exciting career path has excellent
+            opportunities for anyone who loves the challenge of learning both the Front-End
+            languages such as HTML, CSS, JavaScript, and the Back-End languages such as
+            Java, Python, C, C++, and many more. This web development branch will land
+            an excellent working opportunity since a developer knows both sides of the
+            spectrum. He/she can perform on either side of web development.  </p>
           <img class="webpage_img" src="images/fullstackmap.jpg" alt="Full Stack Mapping">
+          <div class="sources">
+            <p><sup>***</sup>Images are downloaded from Google.</p>
+          </div>
         </div>
     </section>
 
   <!-- Links to different webpages containing information regarding web development courses -->
   <section id="features">
     <div class="row">
+      <div class="Intro_paragraph">
+          <p>Here are a few of the plus points of focusing on Full Stack development than investing
+            time and money on either side. Click on each link to find more about Web/Full-Stack development. </p>
+      </div>
       <div class="col-lg-4"><a href="https://github.com/kamranahmedse/developer-roadmap" target="_blank">
         <i class="fas effect fa-check-circle"></i> <br>
         <h3>Easy to Grasp.</h3>
